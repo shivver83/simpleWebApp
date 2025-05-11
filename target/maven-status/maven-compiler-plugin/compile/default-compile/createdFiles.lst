@@ -1,0 +1,5 @@
+com\telusko\simpleWebApp\HomeController.class
+com\telusko\simpleWebApp\model\User.class
+com\telusko\simpleWebApp\SimpleWebAppApplication.class
+com\telusko\simpleWebApp\controller\UserController.class
+com\telusko\simpleWebApp\repository\UserRepository.class
